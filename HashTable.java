@@ -1,15 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/28/2017
- * File: HashTable.java
- * 
- * This is a class that implements the methods of a 
- * hash table with a unique hash function with rehashing
- * also if certain hash factor has been reached.
- */
-
 package hw8;
 
 import java.text.DecimalFormat;
