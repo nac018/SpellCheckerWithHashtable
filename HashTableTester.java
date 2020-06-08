@@ -1,13 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/28/2017
- * File: HashTableTester.java
- * 
- * This is a tester class that tests the methods in HashTable.java.
- */
-
 package hw8;
 
 import static org.junit.Assert.*;
