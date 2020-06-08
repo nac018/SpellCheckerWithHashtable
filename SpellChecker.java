@@ -1,14 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/21/2017
- * File: SpellChecker.java
- * 
- * This is a class that implements methods to imitate
- * a dictionary for spell checking.
- */
-
 package hw8;
 
 import java.util.*;
